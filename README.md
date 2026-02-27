@@ -26,6 +26,12 @@ BOOTSEL is built-in
 
 I used this [Breadboard Kit for Raspberry Pi Pico](https://thepihut.com/products/breadboard-kit-for-raspberry-pi-pico?utm_source=shop_app&list_generator=link_to_storefront&context=order_detail&user_id=777061826) (from the [pi hut](https://thepihut.com/))
 
+##How to add the code
+
+[Getting Started with Raspberry Pi Pico: Setup & First Script](https://raspberrytips.com/getting-started-with-raspberry-pi-pico/) ([raspberrytips](https://raspberrytips.com/))
+
+![cropped-RaspberryTips](https://github.com/user-attachments/assets/d3cc1846-2d03-4a0b-9284-c47954c3f5ec)
+
 ## Leaderboard
 
 Saves to the file specified in `leaderboard_file` in [memory_game.py](https://github.com/ernies-Organization/reaction-time-pico-2w/blob/main/memory_game.py). Default: `leaderboard.json`.
