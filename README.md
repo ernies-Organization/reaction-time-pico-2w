@@ -8,7 +8,6 @@
 - Reaction/memory rounds counted as score
 - Local leaderboard saved to file
 - Debug menu (BOOTSEL)
-- Game time adjustable
 - Does not record 0 rounds
 
 ## Wiring
@@ -25,17 +24,20 @@
 
 BOOTSEL is built-in
 
+I used this [Breadboard Kit for Raspberry Pi Pico](https://thepihut.com/products/breadboard-kit-for-raspberry-pi-pico?utm_source=shop_app&list_generator=link_to_storefront&context=order_detail&user_id=777061826) (from the [pi hut](https://thepihut.com/))
+
 ## Leaderboard
 
-Saves to the file specified in `leaderboard_file` in main.py. Default: `leaderboard.txt`.
+Saves to the file specified in `leaderboard_file` in [memory_game.py](https://github.com/ernies-Organization/reaction-time-pico-2w/blob/main/memory_game.py). Default: `leaderboard.json`.
 
 ## Debug Menu
 
-Hold BOOTSEL if `debug_mode=True`:
+Press BOOTSEL if `debug_mode=True`:
 
 - Show leaderboard
 - Reset leaderboard
 - Change game time
+- Change the amount of places displayed on the leaderboard 
 
 ## License
 
