@@ -39,4 +39,5 @@ Hold BOOTSEL if `debug_mode=True`:
 
 ## License
 
-MIT License
+[MIT License
+](https://github.com/ernies-Organization/reaction-time-pico-2w?tab=MIT-1-ov-file)
