@@ -2,6 +2,18 @@
 
 4-button memory/reaction game for Raspberry Pi Pico 2w in MicroPython.
 
+## License
+
+[MIT License
+](https://github.com/ernies-Organization/reaction-time-pico-2w?tab=MIT-1-ov-file)
+
+# Disclaimer
+The content provided herein is intended strictly for educational purposes. Any misuse or abuse of this information that contradicts this purpose, including but not limited to the unauthorized distribution, reproduction, or alteration of content, or the use of information for illicit activities, is strictly prohibited and may constitute a violation of applicable laws and regulations. This could lead to serious consequences including legal action. Educational resources are to be used responsibly, ethically, and with integrity. I reserve the right to restrict access to these resources for anyone found violating these terms. I also reserve the right to change any important information without notice.
+
+This [README.md](README.md) contains links to external sites. I am not responsible for the content or reliability of any external websites. I do/will/have not receive(d) any money for showing them.
+
+---
+
 ## Features
 
 - 4 buttons, 4 LEDs
@@ -28,6 +40,7 @@ I used this [Breadboard Kit for Raspberry Pi Pico](https://thepihut.com/products
 
 ## How to add the code
 
+Follow these instructions: 
 [Getting Started with Raspberry Pi Pico: Setup & First Script](https://raspberrytips.com/getting-started-with-raspberry-pi-pico/) ([raspberrytips](https://raspberrytips.com/))
 
 ![cropped-RaspberryTips](https://github.com/user-attachments/assets/d3cc1846-2d03-4a0b-9284-c47954c3f5ec)
@@ -45,12 +58,3 @@ Press BOOTSEL if `debug_mode=True`:
 - Change game time
 - Change the amount of places displayed on the leaderboard 
 
-## License
-
-[MIT License
-](https://github.com/ernies-Organization/reaction-time-pico-2w?tab=MIT-1-ov-file)
-
-# Disclaimer
-The content provided herein is intended strictly for educational purposes. Any misuse or abuse of this information that contradicts this purpose, including but not limited to the unauthorized distribution, reproduction, or alteration of content, or the use of information for illicit activities, is strictly prohibited and may constitute a violation of applicable laws and regulations. This could lead to serious consequences including legal action. Educational resources are to be used responsibly, ethically, and with integrity. I reserve the right to restrict access to these resources for anyone found violating these terms. I also reserve the right to change any important information without notice.
-
-This [README.md](README.md) contains links to external sites. I am not responsible for the content or reliability of any external websites. I do/will/have not receive any money for showing them.
