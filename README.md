@@ -53,4 +53,4 @@ Press BOOTSEL if `debug_mode=True`:
 # Disclaimer
 The content provided herein is intended strictly for educational purposes. Any misuse or abuse of this information that contradicts this purpose, including but not limited to the unauthorized distribution, reproduction, or alteration of content, or the use of information for illicit activities, is strictly prohibited and may constitute a violation of applicable laws and regulations. This could lead to serious consequences including legal action. Educational resources are to be used responsibly, ethically, and with integrity. I reserve the right to restrict access to these resources for anyone found violating these terms. I also reserve the right to change any important information without notice.
 
-This [README.md](README.md) contain links to external sites. I am not responsible for the content or reliability of any external websites. I do/will/have not receive any money for showing them.
+This [README.md](README.md) contains links to external sites. I am not responsible for the content or reliability of any external websites. I do/will/have not receive any money for showing them.
